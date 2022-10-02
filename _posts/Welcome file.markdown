@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Integrating razorpay into your webapp"
+title:  "StackEdit Guide"
 date:   2022-03-23 21:03:36 +0530
-categories: Javascript NodeJS
+categories: Markdown
 ---
 
 
