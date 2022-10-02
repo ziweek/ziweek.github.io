@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Integrating razorpay into your webapp"
 date:   2022-03-23 21:03:36 +0530
