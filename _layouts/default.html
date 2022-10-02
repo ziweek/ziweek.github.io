@@ -15,22 +15,24 @@
   <main class="container">
     <section class="about">
       <div class="about-header {{condensed_class}}">
-      <div class="about-title">
-      <a href="{{ "/" | relative_url}}">
-        {% if site.plainwhite.portfolio_image_dark and site.plainwhite.dark_mode %}
-        <img class="light" src="{{site.baseurl }}/{{ site.plainwhite.portfolio_image }}" alt="{{ site.plainwhite.name }}" />
-        <img class="dark" src="{{site.baseurl }}/{{ site.plainwhite.portfolio_image_dark }}" alt="{{ site.plainwhite.name }}" />
-        {% else %}
-        <img src="{{site.baseurl }}/{{ site.plainwhite.portfolio_image }}" alt="{{ site.plainwhite.name }}" />
-        {% endif %}
-      </a>
-      <h2 id="title">
-        <a href="{{ "/" | relative_url }}">{{ site.plainwhite.name }}</a>
-      </h2>
-      </div>
-      {%- if site.plainwhite.tagline -%}
-      <p class="tagline">{{ site.plainwhite.tagline }}</p>
-      {%- endif -%}
+        <div class="about-title">
+          <a href="{{ " /" | relative_url}}">
+            {% if site.plainwhite.portfolio_image_dark and site.plainwhite.dark_mode %}
+            <img class="light" src="{{site.baseurl }}/{{ site.plainwhite.portfolio_image }}"
+              alt="{{ site.plainwhite.name }}" />
+            <img class="dark" src="{{site.baseurl }}/{{ site.plainwhite.portfolio_image_dark }}"
+              alt="{{ site.plainwhite.name }}" />
+            {% else %}
+            <img src="{{site.baseurl }}/{{ site.plainwhite.portfolio_image }}" alt="{{ site.plainwhite.name }}" />
+            {% endif %}
+          </a>
+          <h2 id="title">
+            <a href="{{ " /" | relative_url }}">{{ site.plainwhite.name }}</a>
+          </h2>
+        </div>
+        {%- if site.plainwhite.tagline -%}
+        <p class="tagline">{{ site.plainwhite.tagline }}</p>
+        {%- endif -%}
       </div>
       {% capture footer %}
       {%- if site.plainwhite.social_links != '' -%}
@@ -141,6 +143,7 @@
           {% for link in site.plainwhite.navigation %}
           <li>
             <a href="{{ link.url }}">{{ link.title }}</a>
+            <!-- <a href="{{ post.url | relative_url }}">{{ link.title }}</a> -->
           </li>
           {% endfor %}
         </ul>
@@ -170,7 +173,7 @@
     </footer>
   </main>
   {% if site.plainwhite.dark_mode %}
-  <script type="text/javascript" src="{{ "/assets/js/darkmode.js" | relative_url }}"></script>
+  <script type="text/javascript" src="{{ " /assets/js/darkmode.js" | relative_url }}"></script>
   {% endif %}
 
   {%- if site.plainwhite.analytics_id -%}
@@ -184,8 +187,8 @@
   {%- endif -%}
 
   {% if site.plainwhite.search %}
-  <script src="{{ "/assets/js/simple-jekyll-search.min.js" | relative_url }}"></script>
-  <script src="{{ "/assets/js/search.js" | relative_url }}"></script>
+  <script src="{{ " /assets/js/simple-jekyll-search.min.js" | relative_url }}"></script>
+  <script src="{{ " /assets/js/search.js" | relative_url }}"></script>
   {% endif %}
 </body>
 

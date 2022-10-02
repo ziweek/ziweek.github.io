@@ -22,7 +22,8 @@ plainwhite:
   tagline: |
     
     Business Analyst
-    Back-end Developer
+    Backend Developer
+    Space Viking
 
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
