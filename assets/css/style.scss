@@ -8,6 +8,13 @@
 {% endif %}
 
 {%- if site.plainwhite.dark_mode -%}
-  @import "toggle";
-  @import "dark";
+  @media (prefers-color-scheme: dark) {
+    /* 다크 모드에 적용할 스타일 정의 */
+    // @import "toggle";
+    @import "dark";
+  }
 {%- endif -%}
+// {%- if site.plainwhite.dark_mode -%}
+//   @import "toggle";
+//   @import "dark";
+// {%- endif -%}
