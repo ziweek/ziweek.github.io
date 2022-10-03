@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Rust Basic"
 date:   2022-10-01 19:41:36 +0530
@@ -15,14 +15,14 @@ You can install Rust using below code in 2022.10.04. However, I think you had be
 ```
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ```
-If you ran that code, then you can run into several options like below. It is recommended to pick first one (the default). 
+If you ran it, then you can run into several options like below. It is recommended to choose first one which is also default one. 
 ```
 1) Proceed with installation (default)
 2) Customize installation
 3) Cancel installation
 > 1
 ```
-If Rust is installed normally, then you can check it using the below code.
+If the installation is done, then you need to check whether it is installed normally using the below code.
 ```
 rustc -V
 ```
