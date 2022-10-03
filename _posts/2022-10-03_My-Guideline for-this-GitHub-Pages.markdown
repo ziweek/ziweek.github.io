@@ -4,6 +4,7 @@ title:  "My Guideline for this GitHub Pages"
 date:   2022-10-03 19:41:36 +0530
 categories: init growth
 ---
+
 This is a guideline to manage my GitHub Pages. The posts can be anything that I studied or I am interested in. They are mainly about Business Administration, Data Science, Artificial Intelligence and BlockChain Tech. And also sometimes posts can be written in several languages such as Korean, Japanese and maybe another languages. It is just aimed for the improvement of my language skills.
 
 So then, in those sense, I hope that I would never give up my own challenge which means "one day, one post".
