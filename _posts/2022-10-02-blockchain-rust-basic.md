@@ -11,7 +11,7 @@ Rust is a relatively new language that focuses on high performance and safety. I
 <br/>
 
 ## Installation
-You can install Rust using below code in 2022.10.04. However, I think it is better to check [Rust's Official Documentation](https://www.rust-lang.org/) before just trying that.
+You can install Rust using below code in 2022.10.04. However, I think you had better to check [Rust's Official Documentation](https://www.rust-lang.org/) before just trying that.
 ```
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ```
