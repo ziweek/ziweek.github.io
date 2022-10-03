@@ -15,7 +15,8 @@ And there is another reason why I am trying to do these things. It is because  I
 
 
 So, this is my first post which is written in English. I wish that it could be a good start. 
-
+<br/>
+<br/>
 
 ## What I can do in 2022
 ---
@@ -33,26 +34,29 @@ Artificial Intelligence
 
 BlockChain Tech
 * rust : Just Starting
-
-
+<br/>
 <br/>
 
 
 ## What I can do in 2023
 ---
 <br/>
+<br/>
 
 ## What I can do in 2024
 ---
+<br/>
 <br/>
 
 
 ## What I can do in 2025
 ---
 <br/>
+<br/>
 
 
 
 ## What I can do in 2026
 ---
+<br/>
 <br/>
