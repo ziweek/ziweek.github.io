@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "My Guideline for this GitHub Pages"
 date:   2022-10-03 19:41:36 +0530
