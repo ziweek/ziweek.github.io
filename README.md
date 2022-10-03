@@ -5,7 +5,7 @@
 |--|--|
 |MyWeb|https://ziweek.github.io/|
 |stackedit|https://stackedit.io/|
-|stackedit|https://stackedit.io/|
+|좋은 개발팀을 만드는데 도움이 되는 자료|https://github.com/leehosung/awesome-devteam|
 
 ## Data Science
 |Title |Links|
@@ -27,3 +27,8 @@
 |--|--|
 |learnX|https://learnx.tistory.com/|
 
+## Computer Science
+|Title |Links|
+|--|--|
+|서비큐라 기술 블로그|https://subicura.com/|
+|leetcode|https://leetcode.com/|
