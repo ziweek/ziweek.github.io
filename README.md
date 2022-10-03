@@ -25,7 +25,9 @@
 ## Kaggle
 |Title |Links|
 |--|--|
-|learnX|https://learnx.tistory.com/|
+|[Beginners] Basic Workflow Introduction|https://www.kaggle.com/code/vikumsw/beginners-basic-workflow-introduction/notebook|
+|[titanic][한글커널]타이타닉 데이터분석 for Begginers|https://www.kaggle.com/code/munmun2004/titanic-for-begginers|
+|[GUIDE, KOR, DG] 데이터 분석 어떻게 시작해야 하나요?|https://www.kaggle.com/code/daehungwak/guide-kor-dg|
 
 ## Computer Science
 |Title |Links|
