@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Guideline for Posts"
-date:   2022-10-03 01:00:00 +0900
+date:   2022-10-01 01:00:00 +0900
 categories: Template
 ---
 
