@@ -2,7 +2,7 @@
 layout: post
 title:  "My Guideline for GitHub Pages"
 date:   2022-10-03 19:41:36 +0530
-categories: init growth
+categories: Init Growth
 ---
 
 
