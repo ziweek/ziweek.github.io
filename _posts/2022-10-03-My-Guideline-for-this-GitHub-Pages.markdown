@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "My Guideline for GitHub Pages"
-date:   2022-10-03 19:41:36 +0530
-categories: Init Growth
+title:  "StackEdit Guide copy"
+date:   2022-03-23 21:03:36 +0530
+categories: Markdown
 ---
+
 
 
 This is a guideline to manage my GitHub Pages. The posts can be anything that I studied or I am interested in. They are mainly about Business Administration, Data Science, Artificial Intelligence and BlockChain Tech. And also sometimes posts can be written in several languages such as Korean, Japanese and maybe another languages. It is just aimed for the improvement of my language skills.
