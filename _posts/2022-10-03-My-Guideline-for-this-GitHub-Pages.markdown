@@ -18,6 +18,7 @@ So, this is my first post which is written in English. I wish that it could be a
 
 
 ## What I can do in 2022
+---
 Verbal Skill
  * Korean : Normal
  * English : Terrible
@@ -34,21 +35,24 @@ BlockChain Tech
 * rust : Just Starting
 
 
-
+<br/>
 
 
 ## What I can do in 2023
-
-
+---
+<br/>
 
 ## What I can do in 2024
-
-
+---
+<br/>
 
 
 ## What I can do in 2025
-
+---
+<br/>
 
 
 
 ## What I can do in 2026
+---
+<br/>
