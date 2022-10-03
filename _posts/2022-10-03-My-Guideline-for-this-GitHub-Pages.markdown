@@ -1,10 +1,9 @@
 ---
 layout: post
-title:  "StackEdit Guide copy"
-date:   2022-03-23 21:03:36 +0530
-categories: Markdown
+title:  "Templates for Posts"
+date:   2022-10-03 00:00:00 +0530
+categories: Template
 ---
-
 
 
 This is a guideline to manage my GitHub Pages. The posts can be anything that I studied or I am interested in. They are mainly about Business Administration, Data Science, Artificial Intelligence and BlockChain Tech. And also sometimes posts can be written in several languages such as Korean, Japanese and maybe another languages. It is just aimed for the improvement of my language skills.
