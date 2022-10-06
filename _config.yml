@@ -16,7 +16,7 @@ plainwhite:
   navigation:
     - title: Resume
       url: "resume.html"
-    - title: My Project
+    - title: Projects
       url: "/project.html"
     - title: Posts
       url: "/"
