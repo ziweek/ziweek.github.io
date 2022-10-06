@@ -17,7 +17,7 @@ plainwhite:
     - title: Resume
       url: "resume.html"
     - title: My Project
-      url: "/my-project.html"
+      url: "/project.html"
     - title: Posts
       url: "/"
 
