@@ -16,7 +16,9 @@
     <section class="about">
       <div class="about-header {{condensed_class}}">
         <div class="about-title">
-          <a href="{{ " /" | relative_url}}">
+          <a href="{{ "/" | relative_url}}">
+            <br>
+            <br>
             <br>
             <br>
             {% if site.plainwhite.portfolio_image_dark and site.plainwhite.dark_mode %}
@@ -30,7 +32,7 @@
             {% endif %}
           </a>
           <h2 id="title">
-            <a href="{{ " /" | relative_url }}">{{ site.plainwhite.name }}</a>
+            <a href="{{ "/" | relative_url }}">{{ site.plainwhite.name }}</a>
           </h2>
         </div>
         {%- if site.plainwhite.tagline -%}
