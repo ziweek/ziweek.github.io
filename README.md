@@ -19,7 +19,12 @@
 ## Paper Review
 |Title |Links|
 |--|--|
-|learnX|https://learnx.tistory.com/|
+|seolroh.log|https://velog.io/@seven800/%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0-%EB%B0%A9%EB%B2%95|
+|seolroh.log|https://velog.io/@seven800/%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0-The-Utility-of-Explainable-AI-in-Ad-Hoc-Human-Machine-Teaming|
+|seolroh.log|https://journey-for-phd.tistory.com/6|
+|seolroh.log|https://m.blog.naver.com/wnduddl2333/221439225582|
+|seolroh.log|https://lab-log.tistory.com/entry/%EA%B3%B5%EB%8C%80-%EB%8C%80%ED%95%99%EC%9B%90-%EC%9E%85%ED%95%99%EB%B6%80%ED%84%B0-%EC%A1%B8%EC%97%85%EA%B9%8C%EC%A7%80-%EC%9E%AC%ED%95%99-4-%EB%A6%AC%EB%B7%B0-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EB%8A%94-%EB%B0%A9%EB%B2%95-%EB%A6%AC%EB%B7%B0-%EB%85%BC%EB%AC%B8-%EB%82%B4%EC%9A%A9-%EC%A0%95%EB%A6%AC-%EA%BF%80%ED%8C%81|
+
 
 
 ## Kaggle
