@@ -23,7 +23,9 @@ This is templates for the posts
 <br>
 
 <div align="center">
-    <a href="https://scholar.google.com/scholar?hl=ko&as_sdt=0%2C5&q=DO+MANAGERS+DO+GOOD+WITH+OTHER+PEOPLE%27S+MONEY%3F&btnG="><H1>Title</H1></a>
+    <a href="https://scholar.google.com/scholar?hl=ko&as_sdt=0%2C5&q=DO+MANAGERS+DO+GOOD+WITH+OTHER+PEOPLE%27S+MONEY%3F&btnG=">
+        <H1>Title</H1>
+    </a>
     <p>date</p>
     <p>author</p>
 </div>
