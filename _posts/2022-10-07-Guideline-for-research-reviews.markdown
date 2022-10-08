@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Templates for Posts"
-date:   2022-10-03 00:00:00 +0900
+date:   2022-10-07 00:00:00 +0900
 categories: Template
 ---
 
@@ -23,7 +23,7 @@ This is templates for the posts
 <br>
 
 <div align="center">
-    <H1>Title</H1>
+    <a href="https://scholar.google.com/scholar?hl=ko&as_sdt=0%2C5&q=DO+MANAGERS+DO+GOOD+WITH+OTHER+PEOPLE%27S+MONEY%3F&btnG="><H1>Title</H1></a>
     <p>date</p>
     <p>author</p>
 </div>

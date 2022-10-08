@@ -5,13 +5,13 @@ date:   2022-10-07 00:00:00 +0900
 categories: Template
 ---
 
-
 This is templates for the posts
 
 <br>
 <br>
 
-# The Reason Why I choose this
+
+# The Reason Why I review this research
 ---
 
 <br>
@@ -20,6 +20,15 @@ This is templates for the posts
 # Summary
 ---
 
+<br>
+
+<div align="center">
+    <H1>Title</H1>
+    <p>date</p>
+    <p>author</p>
+</div>
+
+<br>
 <br>
 
 ## Introduction
@@ -41,6 +50,9 @@ This is templates for the posts
 <br>
 
 # Research Review & Futher Research
+---
+
+<br>
 
 ## Strength
 This is templates for the posts
