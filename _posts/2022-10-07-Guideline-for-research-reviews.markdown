@@ -10,6 +10,13 @@ This is templates for the posts
 <br>
 <br>
 
+
+<div align="center">
+    <H1>Title</H1>
+    <p>date</p>
+    <p>author</p>
+</div>
+
 # The Reason Why I choose this
 ---
 
