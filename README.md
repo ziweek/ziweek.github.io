@@ -33,6 +33,8 @@
 |[Beginners] Basic Workflow Introduction|https://www.kaggle.com/code/vikumsw/beginners-basic-workflow-introduction/notebook|
 |[titanic][한글커널]타이타닉 데이터분석 for Begginers|https://www.kaggle.com/code/munmun2004/titanic-for-begginers|
 |[GUIDE, KOR, DG] 데이터 분석 어떻게 시작해야 하나요?|https://www.kaggle.com/code/daehungwak/guide-kor-dg|
+|캐글 입문자를 위한 가이드 문서|https://unfinishedgod.netlify.app/2020/03/22/%EC%BA%90%EA%B8%80-%EC%9E%85%EB%AC%B8%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EA%B0%80%EC%9D%B4%EB%93%9C-%EB%AC%B8%EC%84%9C/|
+
 
 ## Computer Science
 |Title |Links|
