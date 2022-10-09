@@ -278,6 +278,17 @@ main {
   padding-left: 30px;
 }
 
+.post-title {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    line-height: 150%;
+  }
+}
+
 .post {
   font-family: "Merriweather", sans-serif;
   font-weight: 300;
@@ -304,8 +315,7 @@ main {
   h4,
   h5,
   h6 {
-    line-height: 150%;
-    // font-family: Raleway, sans-serif;
+    font-family: Raleway, sans-serif;
   }
 }
 
