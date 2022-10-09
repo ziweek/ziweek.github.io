@@ -4,28 +4,25 @@ title:  "Templates for Posts"
 date:   2022-10-07 00:00:00 +0900
 categories: Template
 ---
-
 This is templates for the posts
 
 <br>
 <br>
 
 
-# The Reason Why I review this research
+### The Reason Why I review this research
 ---
 
 <br>
 <br>
 
-# Summary
+### Summary
 ---
 
 <br>
 
 <div align="center">
-    <a href="https://scholar.google.com/scholar?hl=ko&as_sdt=0%2C5&q=DO+MANAGERS+DO+GOOD+WITH+OTHER+PEOPLE%27S+MONEY%3F&btnG=">
-        <H1>Title</H1>
-    </a>
+    <H1>Title</H1>
     <p>date</p>
     <p>author</p>
 </div>
@@ -33,43 +30,43 @@ This is templates for the posts
 <br>
 <br>
 
-## Introduction
+### Introduction
 This is templates for the posts
 
 <br>
 
-## Installation
+#### Installation
 This is templates for the posts
 
 <br>
 
 
-## Conclusion
+#### Conclusion
 This is templates for the posts
 
 
 <br>
 <br>
 
-# Research Review & Futher Research
+### Research Review & Futher Research
 ---
 
 <br>
 
-## Strength
+#### Strength
 This is templates for the posts
 
 <br>
 
-## Weakness
+#### Weakness
 This is templates for the posts
 
 <br>
 
-## Think Better Solution
+#### Think Better Solution
 This is templates for the posts
 
 <br>
 
-## Reference
+#### Reference
 This is templates for the posts
