@@ -36,8 +36,6 @@ plainwhite:
     - page
     - post
 
-condense:
-  - resume
 
   # generate social links in footer
   social_links:
