@@ -11,13 +11,13 @@ This is templates for the posts
 <br>
 
 
-# The Reason Why I review this research
+### The Reason Why I review this research
 ---
 
 <br>
 <br>
 
-# Summary
+### Summary
 ---
 
 <br>
@@ -31,43 +31,43 @@ This is templates for the posts
 <br>
 <br>
 
-## Introduction
+### Introduction
 This is templates for the posts
 
 <br>
 
-## Installation
+#### Installation
 This is templates for the posts
 
 <br>
 
 
-## Conclusion
+#### Conclusion
 This is templates for the posts
 
 
 <br>
 <br>
 
-# Research Review & Futher Research
+### Research Review & Futher Research
 ---
 
 <br>
 
-## Strength
+#### Strength
 This is templates for the posts
 
 <br>
 
-## Weakness
+#### Weakness
 This is templates for the posts
 
 <br>
 
-## Think Better Solution
+#### Think Better Solution
 This is templates for the posts
 
 <br>
 
-## Reference
+#### Reference
 This is templates for the posts
