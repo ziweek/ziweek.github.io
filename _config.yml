@@ -15,7 +15,7 @@ plainwhite:
   name: Austin Jiuk Kim
   navigation:
     - title: Resume
-      url: "/pages/resume.html"
+      url: "/_layouts/resume.html"
     - title: Projects
       url: "/pages/project.html"
     - title: Posts
