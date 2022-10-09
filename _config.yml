@@ -15,7 +15,7 @@ plainwhite:
   name: Austin Jiuk Kim
   navigation:
     - title: Resume
-      url: "/_layouts/resume.html"
+      url: "/pages/resume.html"
     - title: Projects
       url: "/pages/project.html"
     - title: Posts
@@ -36,6 +36,8 @@ plainwhite:
     # - home
     - page
     - post
+    - resume
+    - project
   # generate social links in footer
   social_links:
     # twitter: samarsault
