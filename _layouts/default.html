@@ -5,30 +5,36 @@
   {%- include head.html -%}
 </head>
 
-<!-- {%- if site.plainwhite.condensed_mobile contains page.layout -%} -->
+{%- if site.plainwhite.condensed_mobile contains page.layout -%}
 {% assign condensed_class = "condensed" %}
-<!-- {% else %} -->
-<!-- {% assign condensed_class = "" %} -->
-<!-- {%- endif -%} -->
+{% else %}
+{% assign condensed_class = "" %}
+{%- endif -%}
+
+{%- if site.condense contains page.name -%}
+{% assign condensed_class = "condensed" %}
+{% else %}
+{% assign condensed_class = "" %}
+{%- endif -%}
 
 <body>
   <main class="container">
     <section class="about">
       <div class="about-header {{condensed_class}}">
         <div class="about-title">
-          <a href="{{ " /" | relative_url}}">
+          <a href="{{ "/" | relative_url}}">
             {% if site.plainwhite.portfolio_image_dark and site.plainwhite.dark_mode %}
             <img class="light" src="{{site.baseurl}}/{{ site.plainwhite.portfolio_image }}"
-              alt="{{ site.plainwhite.name }}" />
+              alt="{{ site.plainwhite.name }}"/>
             <img class="dark" src="{{site.baseurl}}/{{ site.plainwhite.portfolio_image_dark }}"
-              alt="{{ site.plainwhite.name }}" />
+              alt="{{ site.plainwhite.name }}"/>
             {% else %}
             <img src="{{site.baseurl }}/{{ site.plainwhite.portfolio_image }}" alt="{{ site.plainwhite.name }}" />
             <!-- <img src="{{site.baseurl }}/{{ site.plainwhite.portfolio_image }}" alt="{{ site.plainwhite.name }}" /> -->
             {% endif %}
           </a>
           <h2 id="title">
-            <a href="{{ " /" | relative_url }}">{{ site.plainwhite.name }}</a>
+            <a href="{{ "/" | relative_url }}">{{ site.plainwhite.name }}</a>
           </h2>
         </div>
         {%- if site.plainwhite.tagline -%}
