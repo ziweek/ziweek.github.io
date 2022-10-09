@@ -359,8 +359,8 @@ footer {
 @media screen and (max-width: $mobileW) {
   .about {
     .about-header.condensed {
-      align-items: center;
-      align-self: center;
+      align-items: flex-start;
+      align-self: flex-start;
 
       .about-title {
         flex-direction: row;
