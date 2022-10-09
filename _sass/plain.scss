@@ -359,6 +359,7 @@ footer {
 @media screen and (max-width: $mobileW) {
   .about {
     .about-header.condensed {
+      width: 100%;
       align-items: center;
       align-self: center;
 
