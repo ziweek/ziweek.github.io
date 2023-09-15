@@ -16,6 +16,8 @@ plainwhite:
   navigation:
     - title: Resume
       url: "/pages/resume.html"
+    - title: Posts
+      url: "/"
 
   tagline: |
     Business Analyst
