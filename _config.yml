@@ -12,19 +12,18 @@ show_excerpts: true # set to true to show excerpts on the homepage
 sass:
   sass_dir: _sass
 plainwhite:
-  name: Austin Jiuk Kim
+  name: Alex Jiuk Kim
   navigation:
     - title: Resume
       url: "/pages/resume.html"
     - title: Projects
       url: "/pages/project.html"
-    - title: Posts
-      url: "/"
+    # - title: Posts
+     # url: "/"
 
   tagline: |
     Business Analyst
     Backend Developer
-    Space Viking
 
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
@@ -43,8 +42,8 @@ plainwhite:
   social_links:
     # twitter: samarsault
     github:  ziweek
-    email: austin.jiuk.kim@gmail.com
-    instagram: zi.wo_ok
+    email: alex.jiuk.kim@gmail.com
+    instagram: zi.we_ek
     # linkedIn: in/samarsault
     #dribbble: jekyll
     #flickr:   jekyll
