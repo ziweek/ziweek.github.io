@@ -1,58 +1,278 @@
 ---
-layout: default
+layout: page
 ---
 
+
 {%- if page.title -%}
-  <h1 class="page-heading">{{ page.title }}</h1>
+<h1 class="page-heading">{{ page.title }}</h1>
 {%- endif -%}
 
-{{ content }}
 
-{%- if site.posts.size > 0 -%}
-  <ul class="posts">
+<div class="post-container">
     <li class="posts-labelgroup" id="posts-labelgroup">
-      <h1 id="posts-label">posts</h1>
-      {% if site.plainwhite.search %}
-      <div class="search-container">
-        <div class="search-section">
-          <i class="icon-search"></i>
-          <input type="text" name="search" id="searchbar" autocomplete="off" aria-label="search in posts">
-        </div>
-        <div class="search-results" id="search-results" data-placeholder="No Results" style="display: none;"></div>
-      </div>
-      {% endif %}
+        <h1 id="posts-label">resume</h1>
     </li>
     <br>
 
-    {%- for post in site.posts -%}
-      <li>
-        {%- assign date_format = site.plainwhite.date_format | default: "%b %-d, %Y" -%}
-        <a class="post-link" href="{{ post.url | relative_url }}">
-          <h2 class="post-title">{{ post.title | escape }}</h2>
-        </a>
-        <div class="post-meta">
-          <div class="post-date">
-            <i class="icon-calendar"></i>
-            {{ post.date | date: date_format }}
-          </div>
-          {%- if post.categories.size > 0-%}
-          <ul class="post-categories">
-            {%- for tag in post.categories -%}
-            <li>{{ tag }}</li>
-            {%- endfor -%}
-          </ul>
-          {%- endif -%}
-        </div>
-        <div class="post">
-          {%- if site.show_excerpts -%}
-            {{ post.excerpt }}
-          {%- endif -%}
-        </div>
-      </li>
-    {%- endfor -%}
-  </ul>
+    <div align="center">
+        <H1>Alex Jiuk Kim</H1>
+        <p>Seoul, Republic of Korea</p>
+        <p>alex.jiuk.kim@gmail.com</p>
+    </div>
+    <br>
+    <br>
 
-  <!-- <p class="feed-subscribe"><svg class="svg-icon orange">
-		<use xlink:href="{{ '/assets/minima-social-icons.svg#rss' | relative_url }}"></use>
-	</svg><a href="{{ "/feed.xml" | relative_url }}">Subscribe</a></p> -->
-{%- endif -%}
+    <H2>Education</H2>
+    <hr />
+    <div>
+        <p>
+            <a href="https://biz.korea.ac.kr/eng/main/main.html">Bachelor of Business Administration at Korea
+                University</a>, Seoul, Republic of Korea, August 2023.
+        </p>
+        <ul>
+            <li>GPA : 92.1</li>
+            <li>Coursework : Certification Program of KUBS Concentration Track in Business Analytics</li>
+        </ul>
+    </div>
+    <br>
+    <br>
+
+    <H2>Experience</H2>
+    <hr />
+    <div>
+        <p>
+            Mar. 2022 ~ Feb. 2023, <a href="https://www.likelion.net/">Likelion - Academic Club for Web-Service
+                Development</a>, 10th Member
+        </p>
+        <ul>
+            <li>BETtle - Online game betting matching Web-Service, As a backdnd developer.
+                <br />
+                <div>
+                    <a href="https://github.com/ziweek/BETtle">
+                        <img
+                            src="https://img.shields.io/badge/GitHub-222222?style=flat-square&logo=GitHub&logoColor=white&link=https://ziweek.github.io/" />
+                    </a>
+                </div>
+            </li>
+            <li>SAJA - Talent Trade Platform Web-Service, As a backdnd developer.
+                <br />
+                <div>
+                    <a href="https://github.com/ziweek/BETtle">
+                        <img
+                            src="https://img.shields.io/badge/GitHub-222222?style=flat-square&logo=GitHub&logoColor=white&link=https://ziweek.github.io/" />
+                    </a>
+                </div>
+            </li>
+        </ul>
+    </div>
+    <div>
+        <p>
+            Apr. 2022 ~ Aug. 2023, <a href="https://www.kubs-bada.com/">bada - Academic Club for Business Analytics</a>,
+            Club Founder
+        </p>
+        <ul>
+            <li>
+                Data Analysis for Business Contest Project, As a project leader.
+                <br />
+                <a href="https://github.com/ziweek/Future-EcoFriendly-Home-Appliance-Idea-Contest">
+                    <img
+                        src="https://img.shields.io/badge/GitHub-222222?style=flat-square&logo=GitHub&logoColor=white&link=https://ziweek.github.io/" />
+                </a>
+            </li>
+            <li>
+                2022-Summer Machine Learning BootCamp Program, As a program leader.
+                <br />
+                <a href="https://github.com/ziweek/Future-EcoFriendly-Home-Appliance-Idea-Contest">
+                    <img
+                        src="https://img.shields.io/badge/GitHub-222222?style=flat-square&logo=GitHub&logoColor=white&link=https://ziweek.github.io/" />
+                </a>
+            </li>
+            <li>
+                Future Eco-Friendly Home Appliance Idea Contest Project, As a project leader.
+                <br />
+                <a href="https://github.com/ziweek/Future-EcoFriendly-Home-Appliance-Idea-Contest">
+                    <img
+                        src="https://img.shields.io/badge/GitHub-222222?style=flat-square&logo=GitHub&logoColor=white&link=https://ziweek.github.io/" />
+                </a>
+            </li>
+            <li>
+                2022 KU Smart Campus DataTon Project, As a project leader.
+                <br />
+                <a href="https://github.com/ziweek/Future-EcoFriendly-Home-Appliance-Idea-Contest">
+                    <img
+                        src="https://img.shields.io/badge/GitHub-222222?style=flat-square&logo=GitHub&logoColor=white&link=https://ziweek.github.io/" />
+                </a>
+            </li>
+            <li>
+                The 1st KRX Financial Big Data Idea Contest Project, As a project leader.
+                <br />
+                <a href="https://github.com/ziweek/Future-EcoFriendly-Home-Appliance-Idea-Contest">
+                    <img
+                        src="https://img.shields.io/badge/GitHub-222222?style=flat-square&logo=GitHub&logoColor=white&link=https://ziweek.github.io/" />
+                </a>
+            </li>
+        </ul>
+    </div>
+    <div>
+        <p>
+            Sep. 2022 ~ Aug. 2023, <a href="https://ziweek.github.io/resume.html">KuGods - Google Developer Student
+                Club</a>, 1st Member
+        </p>
+        <ul>
+            <li>
+                KuGods Webpage Project, As a product manager.
+                <br />
+                <!-- <a href="https://github.com/ziweek/Future-EcoFriendly-Home-Appliance-Idea-Contest">
+                    <img
+                        src="https://img.shields.io/badge/GitHub-222222?style=flat-square&logo=GitHub&logoColor=white&link=https://ziweek.github.io/" />
+                </a> -->
+            </li>
+            <li>
+                Human Resource Recommendation Modeling Project
+                <br />
+                <!-- <a href="https://github.com/ziweek/Future-EcoFriendly-Home-Appliance-Idea-Contest">
+                    <img
+                        src="https://img.shields.io/badge/GitHub-222222?style=flat-square&logo=GitHub&logoColor=white&link=https://ziweek.github.io/" />
+                </a> -->
+            </li>
+        </ul>
+    </div>
+    <br>
+    <br>
+
+
+    <H2>Extra Curricular Activity</H2>
+    <hr />
+    <div>
+        <p>
+            Korea University
+        </p>
+        <ul>
+            <li>Nov. 2018 ~ Oct. 2019, KUBS Student Council</li>
+            <li>July. 2022 ~ Aug. 2022, Korean Language Helper for <a href="https://www.daito.ac.jp/">大東文化大学</a></li>
+            <li>Aug. 2022 ~ July. 2022, KUBS Buddy for Exchange Students</li>
+            <li>Sep. 2022 ~ Dec. 2022, KU-3DS Tech Supporters</li>
+        </ul>
+    </div>
+    <br>
+    <br>
+
+
+    <H2>Awards & Honors</H2>
+    <hr />
+    <div>
+        <p>
+            Advance to Final Contest, <a href="{{ "/pages/2022-Data-Analysis-for-Business-Contest.html" | relative_url}}">2022 Data Analysis for Business Contest</a>,
+            sponsored by Korea University Business School.
+            <br>
+            <a href="https://github.com/ziweek/leisure-recommendation-service.git">
+                <img
+                    src="https://img.shields.io/badge/GitHub-222222?style=flat-square&logo=GitHub&logoColor=white&link=https://ziweek.github.io/" />
+            </a>
+        </p>
+        <ul>
+            <li>Led the team as a project leader.</li>
+            <li>Defined a method that calculates Jaccard distance and sorts users.</li>
+            <li>Built iOS, Android mobile-based frontend using Flutter.</li>
+            <li>Built python-based backend using FastAPI to modularize jupyter-based models.</li>
+        </ul>
+    </div>
+    <div>
+        <p>
+            Excellent Prize, <a href="{{ "/pages/Future-Eco-Friendly-Home-Appliance-Idea.html" | relative_url}}">2022 Samsung Electronics & Korea
+                University
+                Future Eco-Friendly Home Appliance Idea
+                Contest</a>, sponsored by Samsung Electronics.
+            <br>
+            <a href="https://github.com/ziweek/Future-EcoFriendly-Home-Appliance-Idea-Contest">
+                <img
+                    src="https://img.shields.io/badge/GitHub-222222?style=flat-square&logo=GitHub&logoColor=white&link=https://ziweek.github.io/" />
+            </a>
+        </p>
+        <ul>
+            <li>Led the team as a project leader.</li>
+            <li>Developed the main idea in the process of Business Analytics.</li>
+            <li>Built printable 3d-Models using Autodesk Fusion360 software.</li>
+            <li>Print half-scaled prototypes using 3D printer.</li>
+        </ul>
+    </div>
+    <div>
+        <p>
+            Advance to Final Contest, <a href="{{ "/pages/The-1st-KRX-Financial-Big-Data-Idea-Contest.html" | relative_url}}">The 1st KRX Financial Big Data Idea
+                Contest</a>, sponsored by Korea Exchange.
+            <br>
+            <a href="https://github.com/ziweek/Future-EcoFriendly-Home-Appliance-Idea-Contest">
+                <img
+                    src="https://img.shields.io/badge/GitHub-222222?style=flat-square&logo=GitHub&logoColor=white&link=https://ziweek.github.io/" />
+            </a>
+        </p>
+        <ul>
+            <li>Led the team as a project leader.</li>
+            <li>Built Model using Autodesk Fusion360.</li>
+            <li>3D Modeling using Autodesk Fusion360.</li>
+            <li>Video Editing using Adobe After Effect.</li>
+        </ul>
+    </div>
+    <div>
+        <p>
+            Encouragement Prize, <a href="{{ "/pages/2022-KU-Smart-Campus-DataTon.html" | relative_url}}">2022 KU Smart Campus DataTon</a>, sponsored by Department of DataHub Korea
+            University
+            <br>
+            <a href="https://github.com/ziweek/Future-EcoFriendly-Home-Appliance-Idea-Contest">
+                <img
+                    src="https://img.shields.io/badge/GitHub-222222?style=flat-square&logo=GitHub&logoColor=white&link=https://ziweek.github.io/" />
+            </a>
+        </p>
+        <ul>
+            <li>Led the team as a project leader.</li>
+            <li>3D Modeling using Autodesk Fusion360.</li>
+            <li>Video Editing using Adobe After Effect.</li>
+        </ul>
+    </div>
+    <br>
+    <br>
+
+
+    <H2>Skills & Other Information</H2>
+    <hr />
+    <div>
+        <p>
+            Language Skills
+        </p>
+        <ul>
+            <li>Native Korean</li>
+            <li>Fleunt in English</li>
+            <ul>
+                <li>TOEIC</li>
+                <li>TOFEL</li>
+            </ul>
+            <li>Studying Japanese</li>
+            <ul>
+                <li>JLPT</li>
+            </ul>
+        </ul>
+    </div>
+    <div>
+        <p>
+            Certificates
+        </p>
+        <ul>
+            <li>07/28/2018, <a href="https://license.kpc.or.kr/nasec/qlfint/qlfint/selectGtqinfomg.do">Graphic
+                    Technology Qualification</a></li>
+            <li>11/26/2021, <a href="https://www.samilexam.com/usr/greeting.do">Certified Accounting Manager</a></li>
+            <li>06/16/2022, <a href="https://www.dataq.or.kr/www/sub/a_06.do">Advanced Data Analytics
+                    Semi-Professional</a></li>
+        </ul>
+    </div>
+    <div>
+        <p>
+            Other Information
+        </p>
+        <ul>
+            <li>Hobbies : Tennis, 3D Printing</li>
+            <li>Interests : Business Administration, Management Information System, Data Science Algorithm, Artificial Intelligence, Blockchain Tech, Technology Ethics</li>
+        </ul>
+    </div>
+    <br>
+
+</div>
